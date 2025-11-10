@@ -3,7 +3,7 @@
   "name": "HeatingTile",
   "type": 3,
   "vendor": "yourname",
-  "aliases": ["Heizungskachel"],
+  "aliases": ["Heizungskachel2.0"],
   "parentRequirements": [],
   "childRequirements": [],
   "implemented": [],
